@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Application;
 using AutoMapper;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -30,7 +32,10 @@ namespace Presentation
             {
                 c.EnableAnnotations();
             });
-            services.AddAutoMapper(typeof(Startup));
+            var applicationAssembly = AppDomain.CurrentDomain.Load("Application");
+            services.AddMediatR(applicationAssembly);
+            var automapperAssembly = AppDomain.CurrentDomain.Load("Domain");
+            services.AddAutoMapper(automapperAssembly);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

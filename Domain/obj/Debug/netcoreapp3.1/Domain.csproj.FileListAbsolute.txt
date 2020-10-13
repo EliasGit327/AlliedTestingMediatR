@@ -1,0 +1,9 @@
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/obj/Debug/netcoreapp3.1/Domain.pdb

@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Application/Application.csproj": {
+            "projectPath": "/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Application/Application.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

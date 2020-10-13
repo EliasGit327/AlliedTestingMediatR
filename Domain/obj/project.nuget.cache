@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9Gt6SnuCSHrjVFAKJsxYzigKLyb4lvVQKu5bGoiqCpOpzeutfUVueGQF+0uIxgZdAhS3BbXx7W6S1zHvdHKGA==",
+  "success": true,
+  "projectFilePath": "/Users/elias/Projects/Rider Projects/AlliedTestingMediatR/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/elias/.nuget/packages/automapper/10.0.0/automapper.10.0.0.nupkg.sha512",
+    "/Users/elias/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/elias/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/elias/.nuget/packages/mongodb.bson/2.11.2/mongodb.bson.2.11.2.nupkg.sha512",
+    "/Users/elias/.nuget/packages/swashbuckle.aspnetcore.annotations/5.6.3/swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "/Users/elias/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/elias/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/elias/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
